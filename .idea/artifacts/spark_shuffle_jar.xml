@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="spark-shuffle:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/spark_shuffle_jar</output-path>
+    <root id="archive" name="spark-shuffle.jar">
+      <element id="module-output" name="spark-shuffle" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
