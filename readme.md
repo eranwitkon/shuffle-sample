@@ -23,7 +23,10 @@ Once the program complete you should open spark web UI and see the following:
 
 As sean from the picture we have two competed applications one for reduceByKey and one for groupByKey
 Drill down to each of the jobs and look at the DAG:
-![](./groupByKey.png)![](./reduceByKey.png)
+
+GroupByKey            | ReduceByKey
+----------------------|------------
+![](./groupByKey.png) | ![](./reduceByKey.png)
 
 clicking on the operation itself (reduceByKey and groupNyKey respectively will show you the step details. 
  
