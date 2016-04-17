@@ -12,9 +12,9 @@ Best way to use this demo is by taking the JAR from the artifacts directory and 
 ```
 
 ### pre-requisites:
-1. Have a running hdfs cluster with files text located in /data directories
+1. Have a running hdfs cluster with text files located in /data directories
 2. hdfs cluster should be accessible through ```hdfs://master:9000/data/```
-3. spark history and event logging should be enabled [See How to enable spark history and event logging for details](https://github.com/eranwitkon/shuffle-sample/tree/master#how-to-enable-spark-history-and-event-logging)
+3. spark history and event logging should be enabled [See How to enable spark history and event logging for details](./#how-to-enable-spark-history-and-event-logging)
 
 ### How results looks like?
 
