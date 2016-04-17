@@ -15,3 +15,10 @@ project/plugins/project/
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
+
+shuffle-sample.iws
+.idea/workspace.xml
+/home/eranw/Workspace/spark-shuffle/out/
+/home/eranw/Workspace/spark-shuffle/target/
+/home/eranw/Workspace/spark-shuffle/project/project/target/
+/home/eranw/Workspace/spark-shuffle/project/target/
